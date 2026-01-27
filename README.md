@@ -19,5 +19,5 @@
 Power BI | SQL | Excel | Python (Basics)
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-link
-- GitHub: https://github.com/your-username
+- LinkedIn: https: https://www.linkedin.com/in/naralasetti-devendra-veera-sudheer/
+
