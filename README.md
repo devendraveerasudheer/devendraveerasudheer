@@ -20,7 +20,7 @@ Power BI | SQL | Excel | Python (Basics)
 
 ## Certifications
 - Deloitte – Data Analytics Job Simulation (Forage), Jan 2026  
-  🔗 Certificate: https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_696cb95ab1d14321bb420158_1769235403280_completion_certificate.pdf
+  🔗 Certificate: https://github.com/devendraveerasudheer/Deloitte-Data-Analytics-Certificate
 
 ## 📫 Connect with Me
 - LinkedIn: https: https://www.linkedin.com/in/naralasetti-devendra-veera-sudheer/
